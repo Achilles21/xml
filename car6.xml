@@ -13,14 +13,14 @@
                 <makemodel>
                     <make>CITROEN</make>
                     <model>C4 PICSSO</model>
-                    <yearfrom>0</yearfrom>
-                    <yearto>0</yearto>
+                    <yearfrom></yearfrom>
+                    <yearto></yearto>
                 </makemodel>
                 <makemodel>
                     <make>CITROEN</make>
                     <model>C4 PICASSO</model>
-                    <yearfrom>0</yearfrom>
-                    <yearto>0</yearto>
+                    <yearfrom></yearfrom>
+                    <yearto></yearto>
                 </makemodel>
             </makemodels>
 </classified>
