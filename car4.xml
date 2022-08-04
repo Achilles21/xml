@@ -19,8 +19,8 @@
                 <makemodel>
                     <make>CITROEN</make>
                     <model>C4 PICASSO</model>
-                    <yearfrom>2013</yearfrom>
-                    <yearto>2016</yearto>
+                    <yearfrom>0</yearfrom>
+                    <yearto>0</yearto>
                 </makemodel>
             </makemodels>
 </classified>
