@@ -9,6 +9,20 @@
 <category_id>912</category_id>
 <category_id>7531</category_id>
 <price>0</price>
+            <makemodels>
+                <makemodel>
+                    <make>CITROEN</make>
+                    <model>C4 PICASSO</model>
+                    <yearfrom>2006</yearfrom>
+                    <yearto>2013</yearto>
+                </makemodel>
+                <makemodel>
+                    <make>CITROEN</make>
+                    <model>C4 PICASSO</model>
+                    <yearfrom>2013</yearfrom>
+                    <yearto>2016</yearto>
+                </makemodel>
+            </makemodels>
 </classified>
 <classified>
 <unique_id>1489-3</unique_id>
