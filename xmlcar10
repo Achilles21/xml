@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cardealer>
+<lastupdate>2022-08-08T14:23:58</lastupdate>
+<classifieds>
+<classified>
+<unique_id>1489-8323</unique_id>
+<title><![CDATA[καινούργιο Bmw ΦΛΑΣ F 650 GS 2004-2007]]></title>
+<description><![CDATA[Περιγραφή xml]]></description>
+<category_id>912</category_id>
+<category_id>7531</category_id>
+<price>0</price>
+<makemodels>
+<makemodels>
+<makemodel>
+<make>Bmw</make>
+<model>F 650 GS</model>
+<yearfrom></yearfrom>
+<yearto></yearto>
+</makemodel>
+</makemodels>
+</makemodels>
+<photos>
+<photo> ... </photo>
+</photos>
+</classified>
+<classified>
+<unique_id>1489-8322</unique_id>
+<title><![CDATA[καινούργιο Bmw ΦΛΑΣ F 650 GS 2000-2003]]></title>
+<description><![CDATA[Περιγραφή xml]]></description>
+<category_id>912</category_id>
+<category_id>7531</category_id>
+<price>0</price>
+<makemodels>
+<makemodels>
+<makemodel>
+<make>Bmw</make>
+<model>F 650 GS</model>
+<yearfrom></yearfrom>
+<yearto></yearto>
+</makemodel>
+</makemodels>
+</makemodels>
+<photos>
+<photo> ... </photo>
+</photos>
+</classified>
+</classifieds>
+</cardealer>
